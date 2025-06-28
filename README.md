@@ -40,4 +40,8 @@ Whether you're building your own DIY smart tablet, retro media console, or in-ca
 - Web server (e.g., Flask, Node.js, or simple static server)
 - Chromium or other modern, touch-friendly browser
 
+---
 
+## Installation
+
+- Google it add make the index.html startup in kiosk mode when you turn it on.
