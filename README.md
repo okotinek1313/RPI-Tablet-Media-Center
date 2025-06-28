@@ -45,3 +45,7 @@ Whether you're building your own DIY smart tablet, retro media console, or in-ca
 ## Installation
 
 - Google it add make the index.html startup in kiosk mode when you turn it on.
+
+## Extra
+
+- Im an 12 year please dont judge code quality.
