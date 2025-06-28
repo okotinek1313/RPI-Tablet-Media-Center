@@ -27,11 +27,9 @@ Whether you're building your own DIY smart tablet, retro media console, or in-ca
 
 ## Use Cases
 
-- Raspberry Pi DIY tablet builds  
-- Car-mounted infotainment systems  
-- Portable media kiosks  
-- Retro console frontends  
-- Home automation dashboards with media integration
+- Raspberry Pi DIY tablet builds   
+- Portable media kiosks    
+- Custom Projects etc...
 
 ---
 
@@ -42,7 +40,4 @@ Whether you're building your own DIY smart tablet, retro media console, or in-ca
 - Web server (e.g., Flask, Node.js, or simple static server)
 - Chromium or other modern, touch-friendly browser
 
----
-
-## Project Structure (Example)
 
